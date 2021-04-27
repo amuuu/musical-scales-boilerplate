@@ -48,7 +48,7 @@ void GIMME_MY_CHORDS()
     majorScaleChords[5] = "m";
     majorScaleChords[6] = "dim";
     
-    int majorChord [3] = {'1','3','5'};
-    int minorChord [3] = {'1','3b','5'};
-    int dimChord [3] = {'1','3b','5b'};
+    char majorChord [3] = {'1','3','5'};
+    char minorChord [3] = {'1','3b','5'};
+    char dimChord [3] = {'1','3b','5b'};
 }
